@@ -12,8 +12,8 @@
 
 ## 🌱 About Me  
 <img align="right" alt="GIF" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEycmI1YnM2YWVsdXI3MzB2NzhzcnRiOHp2cXEzdDhxZXUzM2FtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif" />
-<img align="right" alt="GIF" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEycmI1YnM2YWVsdXI3MzB2NzhzcnRiOHp2cXEzdDhxZXUzM2FtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif" />
-<img align="right" alt="GIF" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEycmI1YnM2YWVsdXI3MzB2NzhzcnRiOHp2cXEzdDhxZXUzM2FtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif" />
+<img align="right" alt="GIF" height="130" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRqdWRxdm16ZXUzYTM2cTNpa3pzejgxbG92MzVuMTlhaDFzbHRscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhfVcQF4SXYVgvI9Ut/giphy.gif" />
+<img align="right" alt="GIF" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ1bTd6MWEzb3Rtdm5ibzA0MW1xYmdnY2s5bGpoaG1sMzVianRhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" />
 
 - 🌱 I’m currently learning **Laravel and WordPress**  
 - 👨‍💻 All of my projects are available at [devyaji.netlify.app](https://devyaji.netlify.app)  
