@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=An+aspiring+Full+Stack+Developer;An+aspiring+Software+Engineer;a+Lifelong+Learner;Always+Building+Cool+Things" alt="Typing SVG" />
   </a>
 </p>
-<img align="left" alt="GIF" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEycmI1YnM2YWVsdXI3MzB2NzhzcnRiOHp2cXEzdDhxZXUzM2FtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif" />
+<img align="left" alt="GIF" height="60" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEycmI1YnM2YWVsdXI3MzB2NzhzcnRiOHp2cXEzdDhxZXUzM2FtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif" />
 
 ---
 
