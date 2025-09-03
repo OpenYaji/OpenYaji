@@ -1,7 +1,7 @@
 <!-- Typing SVG Header -->
 <h1 align="center">Hi 👋, I'm DEV YAJI</h1>
 <h3 align="center"> a Bachelor of Science in Information Technology student at Quezon City University 🚀</h3>
-<h3 align="center"> and An 🚀</h3>
+<h2 align="center"> & An </h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
