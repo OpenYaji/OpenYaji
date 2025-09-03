@@ -3,13 +3,13 @@
 <h3 align="center"> a Bachelor of Science in Information Technology student at Quezon City University 🚀</h3>
 
 <p align="center">
-  <img alt="GIF" height="60" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEycmI1YnM2YWVsdXI3MzB2NzhzcnRiOHp2cXEzdDhxZXUzM2FtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif" />
+  <img alt="GIF" height="80" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlkZnc0NzIzYnZiMm53MDRraTVrMG95bjgwZXdsMWd4cTVnOHEzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hMotdpqCq0Kj4YG91F/giphy.gif" />
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=An+aspiring+Full+Stack+Developer;An+aspiring+Software+Engineer;a+Lifelong+Learner;Always+Building+Cool+Things" alt="Typing SVG" />
   </a>
   
-  <img alt="GIF" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRqdWRxdm16ZXUzYTM2cTNpa3pzejgxbG92MzVuMTlhaDFzbHRscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhfVcQF4SXYVgvI9Ut/giphy.gif" />
+  <img alt="GIF" height="80" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRpN3Y4aTlnY2F0dnV1a3BzbjYyM2RwaW5lNW95YzVrZTVsaWdxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
 </p>
 
 ---
