@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <h1 align="center">Hi 👋, I'm DEV YAJI</h1>
-<h3 align="center">Aspiring Software Engineer & Full-Stack Developer 🚀</h3>
+<h3 align="center">An aspiring Software Engineer & Full-Stack Developer 🚀</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
