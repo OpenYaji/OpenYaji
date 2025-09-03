@@ -1,10 +1,11 @@
 <!-- Typing SVG Header -->
 <h1 align="center">Hi 👋, I'm DEV YAJI</h1>
-<h3 align="center">An aspiring Software Engineer & Full-Stack Developer 🚀</h3>
+<h3 align="center"> a Bachelor of Science in Information Technology student at Quezon City University 🚀</h3>
+<h3 align="center"> and An 🚀</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Aspiring+Software+Engineer;Lifelong+Learner;Arduino+Enthusiast;Always+Building+Cool+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=aspiring+Full+Stack+Developer;aspiring+Software+Engineer;Lifelong+Learner;Arduino+Enthusiast;Always+Building+Cool+Things" alt="Typing SVG" />
   </a>
 </p>
 
