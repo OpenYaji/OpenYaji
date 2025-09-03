@@ -11,7 +11,7 @@
 ---
 
 ## 🌱 About Me  
-<img align="right" alt="GIF" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEycmI1YnM2YWVsdXI3MzB2NzhzcnRiOHp2cXEzdDhxZXUzM2FtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif" />
+<img align="right" alt="GIF" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEycmI1YnM2YWVsdXI3MzB2NzhzcnRiOHp2cXEzdDhxZXUzM2FtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif" />
 
 
 - 🌱 I’m currently learning **Laravel and WordPress**  
