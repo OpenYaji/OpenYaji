@@ -11,6 +11,7 @@
 ---
 
 ## 🌱 About Me  
+<img align="right" alt="Lion listening to music" width="200" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" />
 
 - 🌱 I’m currently learning **Laravel and WordPress**  
 - 👨‍💻 All of my projects are available at [devyaji.netlify.app](https://devyaji.netlify.app)  
