@@ -11,7 +11,7 @@
 ---
 
 ## 🌱 About Me  
-<img align="right" alt="Lion listening to music" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5rMWoxeHpkdGd5N2c0eG1oOHZmYnVxdW1lNDExZ3pjcXFmMTUydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" />
+<img align="right" alt="Lion listening to music" width="200" src="[https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEycmI1YnM2YWVsdXI3MzB2NzhzcnRiOHp2cXEzdDhxZXUzM2FtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif)" />
 
 - 🌱 I’m currently learning **Laravel and WordPress**  
 - 👨‍💻 All of my projects are available at [devyaji.netlify.app](https://devyaji.netlify.app)  
