@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Laravel and WordPress**  
 - 👨‍💻 All of my projects are available at [devyaji.netlify.app](https://devyaji.netlify.app)  
-- 💬 Ask me about **React**  
+- 💬 Ask me about **Web App and Arduino Projects**  
 - 📫 How to reach me **johnreybisnarcalipes@gmail.com**  
 - ⚡ Fun fact: **I love to seek discomfort and talk with strangers**  
 
