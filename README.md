@@ -10,7 +10,7 @@
 
 ---
 
-## 🌱 About Me  
+## About Me  
 <img align="right" alt="GIF" height="135" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEycmI1YnM2YWVsdXI3MzB2NzhzcnRiOHp2cXEzdDhxZXUzM2FtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif" />
 <img align="right" alt="GIF" height="130" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRqdWRxdm16ZXUzYTM2cTNpa3pzejgxbG92MzVuMTlhaDFzbHRscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhfVcQF4SXYVgvI9Ut/giphy.gif" />
 <img align="right" alt="GIF" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ1bTd6MWEzb3Rtdm5ibzA0MW1xYmdnY2s5bGpoaG1sMzVianRhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" />
@@ -23,7 +23,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+##  Connect with Me  
 
 <p align="center">
   <a href="https://twitter.com/jayeeboy" target="blank">
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Languages & Tools  
+## Languages & Tools  
 
 <p align="center">
   <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50"/></a>
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=openyaji&show_icons=true&theme=radical" height="165"/>
@@ -86,7 +86,7 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+##  GitHub Trophies  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=openyaji&theme=radical&no-frame=true&row=1&column=6" />
