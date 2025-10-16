@@ -35,6 +35,9 @@
   <a href="https://instagram.com/devyaji_" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/devyaji/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
