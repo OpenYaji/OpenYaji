@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%" />
+<img src="https://raw.githubusercontent.com/aleen42/badges/master/src/lines/blue.png" width="100%" />
 
 ## 🌟 About Me  
 
@@ -22,7 +22,7 @@
 - 📧 Reach me at **johnreybisnarcalipes@gmail.com**  
 - ⚡ Fun fact: **I love to seek discomfort and talk with strangers!**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%" />
+<img src="https://raw.githubusercontent.com/aleen42/badges/master/src/lines/blue.png" width="100%" />
 
 ## 🌐 Connect with Me  
 
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%" />
+<img src="https://raw.githubusercontent.com/aleen42/badges/master/src/lines/blue.png" width="100%" />
 
 ## 🧰 Languages & Tools  
 
@@ -58,7 +58,7 @@
   <img title="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%" />
+<img src="https://raw.githubusercontent.com/aleen42/badges/master/src/lines/blue.png" width="100%" />
 
 ### ⚙️ **Backend**
 <p align="center">
@@ -72,7 +72,7 @@
   <img title="C++" src="https://skillicons.dev/icons?i=cpp" width="50" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%" />
+<img src="https://raw.githubusercontent.com/aleen42/badges/master/src/lines/blue.png" width="100%" />
 
 ### 🗄️ **Database**
 <p align="center">
@@ -106,11 +106,11 @@
   <img title="VS Code" src="https://skillicons.dev/icons?i=vscode" width="50" />
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/aleen42/badges/master/src/lines/blue.png" width="100%" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%" />
+<img src="https://raw.githubusercontent.com/aleen42/badges/master/src/lines/blue.png" width="100%" />
 
 ## 📊 GitHub Stats  
 
@@ -123,7 +123,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=openyaji&layout=compact&theme=tokyonight" height="165" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%" />
+<img src="https://raw.githubusercontent.com/aleen42/badges/master/src/lines/blue.png" width="100%" />
 
 ## 🏆 GitHub Trophies  
 
@@ -131,7 +131,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=openyaji&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%" />
+<img src="https://raw.githubusercontent.com/aleen42/badges/master/src/lines/blue.png" width="100%" />
 
 ⭐️ **From [DEV YAJI](https://github.com/openyaji)**  
 <sub>✨ Keep learning. Keep building. Keep pushing forward. ✨</sub>
