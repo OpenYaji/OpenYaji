@@ -17,7 +17,6 @@
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ## 🌟 About Me  
-<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 <img align="right" alt="Coding" height="140" src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" />
 <img align="right" alt="Laptop" height="140" src="https://media3.giphy.com/media/rhfVcQF4SXYVgvI9Ut/giphy.gif" />
@@ -32,7 +31,6 @@
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ## 🌐 Connect with Me  
-<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 <p align="center">
   <a href="https://twitter.com/jayeeboy" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
@@ -44,7 +42,6 @@
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ## 🧰 Languages & Tools  
-<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 <div align="center">
 
@@ -113,7 +110,6 @@
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ## 📊 GitHub Stats  
-<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=openyaji&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00BFFF&icon_color=00BFFF" height="165" />
@@ -127,7 +123,6 @@
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ## 🏆 GitHub Trophies  
-<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=openyaji&theme=radical&no-frame=true&column=6&margin-w=10&margin-h=10" />
