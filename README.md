@@ -43,34 +43,69 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🧰 Languages & Tools  
+## 🧰 Languages & Tools
 
 <div align="center">
 
-### 🎨 **Frontend**  
+### 🎨 **Frontend**
 <p align="center">
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
+  <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/3d-fluency/50/html-5.png" width="50" alt="HTML5" /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/3d-fluency/50/css3.png" width="50" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/3d-fluency/50/javascript.png" width="50" alt="JavaScript" /></a>
+  <a href="https://reactjs.org/"><img src="https://img.icons8.com/3d-fluency/50/react.png" width="50" alt="React" /></a>
+  <a href="https://reactnative.dev/"><img src="https://img.icons8.com/3d-fluency/50/react-native.png" width="50" alt="React Native" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.icons8.com/3d-fluency/50/nextjs.png" width="50" alt="Next.js" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/3d-fluency/50/tailwindcss.png" width="50" alt="Tailwind CSS" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### ⚙️ **Backend**  
+### ⚙️ **Backend**
 <p align="center">
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
+  <a href="https://nodejs.org"><img src="https://img.icons8.com/3d-fluency/50/nodejs.png" width="50" alt="Node.js" /></a>
+  <a href="https://expressjs.com"><img src="https://img.icons8.com/3d-fluency/50/express-js.png" width="50" alt="Express.js" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/3d-fluency/50/django.png" width="50" alt="Django" /></a>
+  <a href="https://www.php.net"><img src="https://img.icons8.com/3d-fluency/50/php-logo.png" width="50" alt="PHP" /></a>
+  <a href="https://www.python.org"><img src="https://img.icons8.com/3d-fluency/50/python.png" width="50" alt="Python" /></a>
+  <a href="https://www.java.com"><img src="https://img.icons8.com/3d-fluency/50/java-coffee-cup-logo.png" width="50" alt="Java" /></a>
+  <a href="https://docs.microsoft.com/dotnet/csharp/"><img src="https://img.icons8.com/3d-fluency/50/c-sharp-logo.png" width="50" alt="C#" /></a>
+  <a href="https://isocpp.org/"><img src="https://img.icons8.com/3d-fluency/50/c-plus-plus.png" width="50" alt="C++" /></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+### 🗄️ **Database**
+<p align="center">
+  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/3d-fluency/50/mysql.png" width="50" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org"><img src="https://img.icons8.com/3d-fluency/50/postgreesql.png" width="50" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/3d-fluency/50/mongodb.png" width="50" alt="MongoDB" /></a>
+  <a href="https://mariadb.org/"><img src="https://img.icons8.com/3d-fluency/50/mariadb.png" width="50" alt="MariaDB" /></a>
+  <a href="https://www.oracle.com/"><img src="https://img.icons8.com/3d-fluency/50/oracle.png" width="50" alt="Oracle" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+### ☁️ **DevOps / Cloud**
+<p align="center">
+  <a href="https://aws.amazon.com"><img src="https://img.icons8.com/3d-fluency/50/amazon-web-services.png" width="50" alt="AWS" /></a>
+  <a href="https://cloud.google.com"><img src="https://img.icons8.com/3d-fluency/50/google-cloud.png" width="50" alt="GCP" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.icons8.com/3d-fluency/50/git.png" width="50" alt="Git" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+### 🧩 **Tools & Design**
+<p align="center">
+  <a href="https://www.figma.com/"><img src="https://img.icons8.com/3d-fluency/50/figma.png" width="50" alt="Figma" /></a>
+  <a href="https://www.photoshop.com/en"><img src="https://img.icons8.com/3d-fluency/50/adobe-photoshop.png" width="50" alt="Photoshop" /></a>
+  <a href="https://unity.com/"><img src="https://img.icons8.com/3d-fluency/50/unity.png" width="50" alt="Unity" /></a>
+  <a href="https://developer.android.com"><img src="https://img.icons8.com/3d-fluency/50/android-os.png" width="50" alt="Android" /></a>
+  <a href="https://www.arduino.cc/"><img src="https://img.icons8.com/3d-fluency/50/arduino.png" width="50" alt="Arduino" /></a>
+</p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
