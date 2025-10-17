@@ -24,7 +24,7 @@
 - 💻 Explore my works → [**devyaji.netlify.app**](https://devyaji.netlify.app)  
 - 💬 Ask me about **Full Stack Development & Arduino**  
 - 📧 Contact: **johnreybisnarcalipes@gmail.com**  
-- ⚡ Fun fact: **I build better at midnight 🚀**
+- ⚡ Fun fact: **I build better at midnight, I love to seek discomfort, and I love to talk with strangers. **
 
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
