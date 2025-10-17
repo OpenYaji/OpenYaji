@@ -8,7 +8,7 @@
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🌟 About Me  
 
@@ -22,7 +22,7 @@
 - 📧 Reach me at **johnreybisnarcalipes@gmail.com**  
 - ⚡ Fun fact: **I love to seek discomfort and talk with strangers!**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🌐 Connect with Me  
 
@@ -107,7 +107,8 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 
 ## 📊 GitHub Stats  
 
@@ -120,7 +121,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=openyaji&layout=compact&theme=radical" height="165" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 
 ## 🏆 GitHub Trophies  
 
@@ -128,7 +130,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=openyaji&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 
 ⭐️ **From [DEV YAJI](https://github.com/openyaji)**  
 <sub>✨ Keep learning. Keep building. Keep pushing forward. ✨</sub>
