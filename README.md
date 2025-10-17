@@ -20,7 +20,7 @@
 <img align="right" alt="Laptop" height="140" src="https://media3.giphy.com/media/rhfVcQF4SXYVgvI9Ut/giphy.gif" />
 <img align="right" alt="Glitch" height="140" src="https://media4.giphy.com/media/x0EASzgqjpvVrYjzvk/giphy.gif" />
 
-- 🌱 I’m currently learning **Next.js & DevOps**  
+- 🌱 I’m currently learning **Next.js, DevOps & Automation**  
 - 💻 Explore my works → [**devyaji.netlify.app**](https://devyaji.netlify.app)  
 - 💬 Ask me about **Full Stack Development & Arduino**  
 - 📧 Contact: **johnreybisnarcalipes@gmail.com**  
