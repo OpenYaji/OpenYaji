@@ -112,42 +112,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### 🗄️ **Database**  
-<p align="center">
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-### ☁️ **DevOps / Cloud**  
-<p align="center">
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-### 🧩 **Tools & Design**  
-<p align="center">
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-  <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" style="filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.2));" /></a>
-</p>
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-
 
 ## 📊 GitHub Stats  
 
