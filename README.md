@@ -14,10 +14,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+Progress;Passionate+About+Modern+Web+Tech;Exploring+AI+and+Automation;Always+Building+Cool+Things!" alt="Typing SVG" />
 </p>
 
-<img src="https://i.ibb.co/RYr2mpJ/blueglow-divider.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ## 🌟 About Me  
-<img src="https://i.ibb.co/fqn3J6n/bluepulse-banner.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 <img align="right" alt="Coding" height="140" src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" />
 <img align="right" alt="Laptop" height="140" src="https://media3.giphy.com/media/rhfVcQF4SXYVgvI9Ut/giphy.gif" />
@@ -29,10 +29,10 @@
 - 📧 Contact: **johnreybisnarcalipes@gmail.com**  
 - ⚡ Fun fact: **I build better at midnight 🚀**
 
-<img src="https://i.ibb.co/RYr2mpJ/blueglow-divider.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ## 🌐 Connect with Me  
-<img src="https://i.ibb.co/fqn3J6n/bluepulse-banner.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 <p align="center">
   <a href="https://twitter.com/jayeeboy" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
@@ -41,10 +41,10 @@
   <a href="https://www.linkedin.com/in/calipes,%johnrey%b./" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
 </p>
 
-<img src="https://i.ibb.co/RYr2mpJ/blueglow-divider.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ## 🧰 Languages & Tools  
-<img src="https://i.ibb.co/fqn3J6n/bluepulse-banner.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 <div align="center">
 
@@ -59,7 +59,7 @@
   <img title="React Native" src="https://skillicons.dev/icons?i=react" width="50"/>
 </p>
 
-<img src="https://i.ibb.co/RYr2mpJ/blueglow-divider.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ### ⚙️ **Backend**
 <p align="center">
@@ -73,7 +73,7 @@
   <img title="C++" src="https://skillicons.dev/icons?i=cpp" width="50"/>
 </p>
 
-<img src="https://i.ibb.co/RYr2mpJ/blueglow-divider.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ### 🗄️ **Database**
 <p align="center">
@@ -84,7 +84,7 @@
   <img title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/>
 </p>
 
-<img src="https://i.ibb.co/RYr2mpJ/blueglow-divider.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ### ☁️ **DevOps / Cloud**
 <p align="center">
@@ -95,7 +95,7 @@
   <img title="Netlify" src="https://skillicons.dev/icons?i=netlify" width="50"/>
 </p>
 
-<img src="https://i.ibb.co/RYr2mpJ/blueglow-divider.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ### 🧩 **Tools & Design**
 <p align="center">
@@ -110,10 +110,10 @@
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
-<img src="https://i.ibb.co/RYr2mpJ/blueglow-divider.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ## 📊 GitHub Stats  
-<img src="https://i.ibb.co/fqn3J6n/bluepulse-banner.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=openyaji&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00BFFF&icon_color=00BFFF" height="165" />
@@ -124,16 +124,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=openyaji&layout=compact&theme=radical&bg_color=000000&title_color=00BFFF&text_color=FFFFFF" height="165" />
 </p>
 
-<img src="https://i.ibb.co/RYr2mpJ/blueglow-divider.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ## 🏆 GitHub Trophies  
-<img src="https://i.ibb.co/fqn3J6n/bluepulse-banner.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=openyaji&theme=radical&no-frame=true&column=6&margin-w=10&margin-h=10" />
 </p>
 
-<img src="https://i.ibb.co/RYr2mpJ/blueglow-divider.gif" width="100%" />
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ⭐ **From [DEV YAJI](https://github.com/openyaji)**  
 <sub>💙 Keep learning. Keep building. Keep pushing forward. 💙</sub>
