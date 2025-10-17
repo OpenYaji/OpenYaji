@@ -5,9 +5,7 @@
   <img src="https://i.ibb.co/YjvnTST/bluewave.gif" width="100%" alt="cyber banner"/>
 </div>
 
-<h1 align="center">
-  <span style="color:#00BFFF;">👋 Hi, I'm <span style="color:#00BFFF;">DEV YAJI</span></span>
-</h1>
+<h1 align="center" style="color:#00BFFF;">👋 Hi, I'm <span style="color:#00FFFF;">DEV YAJI</span></h1>
 <h3 align="center" style="color:#EAEAEA;">🎓 Bachelor of Science in Information Technology | Quezon City University</h3>
 
 <p align="center">
@@ -16,7 +14,7 @@
 
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
-## 🌟 About Me  
+<h2 style="color:#00BFFF; font-weight:600; border-bottom:none;">About Me</h2>
 
 <img align="right" alt="Coding" height="140" src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" />
 <img align="right" alt="Laptop" height="140" src="https://media3.giphy.com/media/rhfVcQF4SXYVgvI9Ut/giphy.gif" />
@@ -30,7 +28,7 @@
 
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
-## 🌐 Connect with Me  
+<h2 style="color:#00BFFF; font-weight:600; border-bottom:none;">Connect with Me</h2>
 
 <p align="center">
   <a href="https://twitter.com/jayeeboy" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
@@ -41,11 +39,11 @@
 
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
-## 🧰 Languages & Tools  
+<h2 style="color:#00BFFF; font-weight:600; border-bottom:none;">Languages & Tools</h2>
 
 <div align="center">
 
-### 🎨 **Frontend**
+<h3 style="color:#00FFFF;">🎨 Frontend</h3>
 <p align="center">
   <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="50"/>
   <img title="CSS3" src="https://skillicons.dev/icons?i=css" width="50"/>
@@ -58,7 +56,7 @@
 
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
-### ⚙️ **Backend**
+<h3 style="color:#00FFFF;">Backend</h3>
 <p align="center">
   <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="50"/>
   <img title="Express.js" src="https://skillicons.dev/icons?i=express" width="50"/>
@@ -72,7 +70,7 @@
 
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
-### 🗄️ **Database**
+<h3 style="color:#00FFFF;">Database</h3>
 <p align="center">
   <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" width="50"/>
   <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" width="50"/>
@@ -83,7 +81,7 @@
 
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
-### ☁️ **DevOps / Cloud**
+<h3 style="color:#00FFFF;">DevOps / Cloud</h3>
 <p align="center">
   <img title="AWS" src="https://skillicons.dev/icons?i=aws" width="50"/>
   <img title="Google Cloud" src="https://skillicons.dev/icons?i=gcp" width="50"/>
@@ -94,7 +92,7 @@
 
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
-### 🧩 **Tools & Design**
+<h3 style="color:#00FFFF;">Tools & Design</h3>
 <p align="center">
   <img title="Figma" src="https://skillicons.dev/icons?i=figma" width="50"/>
   <img title="Photoshop" src="https://skillicons.dev/icons?i=ps" width="50"/>
@@ -109,7 +107,7 @@
 
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
-## 📊 GitHub Stats  
+<h2 style="color:#00BFFF; font-weight:600; border-bottom:none;">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=openyaji&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00BFFF&icon_color=00BFFF" height="165" />
@@ -122,7 +120,7 @@
 
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
-## 🏆 GitHub Trophies  
+<h2 style="color:#00BFFF; font-weight:600; border-bottom:none;">GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=openyaji&theme=radical&no-frame=true&column=6&margin-w=10&margin-h=10" />
@@ -130,5 +128,5 @@
 
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
-⭐ **From [DEV YAJI](https://github.com/openyaji)**  
+⭐ <strong>From <a href="https://github.com/openyaji">DEV YAJI</a></strong>  
 <sub>💙 Keep learning. Keep building. Keep pushing forward. 💙</sub>
