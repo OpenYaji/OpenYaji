@@ -5,8 +5,8 @@
   <img src="https://i.ibb.co/YjvnTST/bluewave.gif" width="100%" alt="cyber banner"/>
 </div>
 
-<h1 align="center" style="color:#00BFFF;">👋 Hi, I'm <span style="color:#00FFFF;">DEV YAJI</span></h1>
-<h3 align="center" style="color:#EAEAEA;">🎓 Bachelor of Science in Information Technology | Quezon City University</h3>
+<h1 align="center" style="color:#00BFFF;">Hi, I'm <span style="color:#00FFFF;">DEV YAJI</span></h1>
+<h3 align="center" style="color:#EAEAEA;">Bachelor of Science in Information Technology | Quezon City University</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+Progress;Passionate+About+Modern+Web+Tech;Exploring+AI+and+Automation;Always+Building+Cool+Things!" alt="Typing SVG" />
