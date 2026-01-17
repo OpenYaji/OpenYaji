@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<h3 style="color:#00FFFF;">🎨 Frontend</h3>
+<h3 style="color:#00FFFF;">Frontend</h3>
 <p align="center">
   <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="50"/>
   <img title="CSS3" src="https://skillicons.dev/icons?i=css" width="50"/>
