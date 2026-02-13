@@ -129,4 +129,4 @@
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
 
 ⭐ <strong>From <a href="https://github.com/openyaji">DEV YAJI</a></strong>  
-<sub>💙 Keep learning. Keep building. Keep pushing forward. 💙</sub>
+<sub>💙 Keep learning. Keep building. Keep pushing forward. : )💙</sub>
