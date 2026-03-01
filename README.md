@@ -9,7 +9,7 @@
 <h3 align="center" style="color:#EAEAEA;">Bachelor of Science in Information Technology | Quezon City University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+Progress;Passionate+About+Modern+Web+Tech;Exploring+AI+and+Automation;Always+Building+Cool+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full+Stack+Developer+in+Progress;Passionate+About+Modern+Web+Tech;Exploring+AI+and+Automation;Always+Building+Cool+Things!" alt="Typing SVG" />
 </p>
 
 <hr style="border: 0; height: 3px; background: linear-gradient(90deg, #002244, #00FFFF, #002244); box-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF66; border-radius: 10px;" />
