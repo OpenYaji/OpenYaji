@@ -44,7 +44,7 @@
 
 -  I’m currently learning **Next.js, DevOps & Automation**  
 
--  Explore my works → [**devyaji.netlify.app**](https://devyaji.netlify.app)  
+-  Explore my works → [**devyaji.tech**](https://devyaji.tech)  
 
 -  Ask me about **Full Stack Development & Arduino**  
 
