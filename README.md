@@ -11,11 +11,10 @@
 <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME"><img src="https://img.shields.io/badge/Facebook-061224?style=flat-square&logo=facebook&logoColor=38BDF8" alt="Facebook" /></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG"><img src="https://img.shields.io/badge/LinkedIn-061224?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
 
-<br/>
 
-<img height="105" src="https://github-readme-stats.vercel.app/api?username=openyaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=061224&title_color=38BDF8&icon_color=0EA5E9&text_color=BAE6FD" alt="GitHub stats" />
-<img height="105" src="https://streak-stats.demolab.com?user=openyaji&theme=tokyonight&hide_border=true&background=061224&ring=38BDF8&fire=0EA5E9&currStreakLabel=BAE6FD" alt="Streak stats" />
-<img height="105" src="https://github-readme-stats.vercel.app/api/top-langs/?username=openyaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=061224&title_color=38BDF8&text_color=BAE6FD" alt="Top languages" />
+<img height="88" src="https://github-readme-stats.vercel.app/api?username=openyaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=061224&title_color=38BDF8&icon_color=0EA5E9&text_color=BAE6FD" alt="GitHub stats" />
+<img height="88" src="https://streak-stats.demolab.com?user=openyaji&theme=tokyonight&hide_border=true&background=061224&ring=38BDF8&fire=0EA5E9&currStreakLabel=BAE6FD" alt="Streak stats" />
+<img height="88" src="https://github-readme-stats.vercel.app/api/top-langs/?username=openyaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=061224&title_color=38BDF8&text_color=BAE6FD" alt="Top languages" />
 
 <sub>Keep learning. Keep building. Keep pushing forward.</sub>
 
