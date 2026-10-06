@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://devyaji.tech"><img src="./banner.svg" width="100%" alt="DEVYAJI - BSIT student at Quezon City University, Chief Technology Officer at Seegla, QA Intern at Bayani Technology Solutions Inc., 2x Hackathon Winner." /></a>
+<a href="https://devyaji.tech"><img src="./banner.svg" width="100%" alt="DEVYAJI - BSIT student at Quezon City University, Chief Technology Officer at Seegla, QA Intern at Bayani Technology Solutions Inc., 2x Hackathon Winner. Currently learning AI Engineering, DevOps and Automation." /></a>
 
 <a href="https://devyaji.tech"><img src="./btn-portfolio.svg" height="48" alt="Portfolio" /></a>
 <a href="mailto:johnreybisnarcalipes@gmail.com"><img src="./btn-email.svg" height="48" alt="Email" /></a>
@@ -13,8 +13,8 @@
 
 <br/><br/>
 
-<img height="100" src="https://github-readme-stats.vercel.app/api?username=openyaji&show_icons=true&theme=tokyonight&hide_border=true&border_radius=30&bg_color=1A2232&title_color=8DB6E8&icon_color=5B94D6&text_color=C9DCF5" alt="GitHub stats" />
-<img height="100" src="https://streak-stats.demolab.com?user=openyaji&theme=tokyonight&hide_border=true&border_radius=30&background=1A2232&ring=5B94D6&fire=EBB892&currStreakLabel=C9DCF5" alt="Streak stats" />
-<img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=openyaji&layout=compact&theme=tokyonight&hide_border=true&border_radius=30&bg_color=1A2232&title_color=8DB6E8&text_color=C9DCF5" alt="Top languages" />
+<img height="100" src="https://github-readme-stats.vercel.app/api?username=openyaji&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&bg_color=1A2232&title_color=8DB6E8&icon_color=5B94D6&text_color=C9DCF5" alt="GitHub stats" />
+<img height="100" src="https://streak-stats.demolab.com?user=openyaji&theme=tokyonight&hide_border=true&border_radius=14&background=1A2232&ring=5B94D6&fire=EBB892&currStreakLabel=C9DCF5" alt="Streak stats" />
+<img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=openyaji&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&bg_color=1A2232&title_color=8DB6E8&text_color=C9DCF5" alt="Top languages" />
 
 </div>
