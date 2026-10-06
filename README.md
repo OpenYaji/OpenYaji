@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="https://devyaji.tech"><img src="./assets/banner.svg" width="100%" alt="DEVYAJI - BSIT student at Quezon City University, Chief Technology Officer at Seegla, QA Intern at Bayani Technology Solutions Inc., 2x Hackathon Winner." /></a>
+<a href="https://devyaji.tech"><img src="./banner.svg" width="100%" alt="DEVYAJI - BSIT student at Quezon City University, Chief Technology Officer at Seegla, QA Intern at Bayani Technology Solutions Inc., 2x Hackathon Winner." /></a>
 
-<a href="https://devyaji.tech"><img src="./assets/btn-portfolio.svg" height="48" alt="Portfolio" /></a>
-<a href="mailto:johnreybisnarcalipes@gmail.com"><img src="./assets/btn-email.svg" height="48" alt="Email" /></a>
-<a href="https://twitter.com/jayeeboy"><img src="./assets/btn-x.svg" height="48" alt="X" /></a>
-<a href="https://instagram.com/devyaji_"><img src="./assets/btn-instagram.svg" height="48" alt="Instagram" /></a>
-<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME"><img src="./assets/btn-facebook.svg" height="48" alt="Facebook" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG"><img src="./assets/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
+<a href="https://devyaji.tech"><img src="./btn-portfolio.svg" height="48" alt="Portfolio" /></a>
+<a href="mailto:johnreybisnarcalipes@gmail.com"><img src="./btn-email.svg" height="48" alt="Email" /></a>
+<a href="https://twitter.com/jayeeboy"><img src="./btn-x.svg" height="48" alt="X" /></a>
+<a href="https://instagram.com/devyaji_"><img src="./btn-instagram.svg" height="48" alt="Instagram" /></a>
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME"><img src="./btn-facebook.svg" height="48" alt="Facebook" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG"><img src="./btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,django,php,py,java,cs,cpp,mysql,postgres,mongodb,aws,gcp,git,vercel,figma,unity,arduino,vscode,docker&theme=light&perline=13" alt="Tech stack" />
 
