@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="226" height="58" viewBox="0 0 226 58" role="img" aria-labelledby="title">
+  <title id="title">DEVYAJI</title>
+  <style>
+    .reveal{animation:type 6s steps(7,end) infinite;transform-origin:0 0}
+    .caret{animation:follow 6s steps(7,end) infinite,blink .8s step-end infinite}
+    @keyframes type{0%,3%{transform:scaleX(0)}30%,84%{transform:scaleX(1)}96%,100%{transform:scaleX(0)}}
+    @keyframes follow{0%,3%{transform:translateX(0)}30%,84%{transform:translateX(210px)}96%,100%{transform:translateX(0)}}
+    @keyframes blink{50%{opacity:0}}
+    @media(prefers-reduced-motion:reduce){.reveal{animation:none;transform:none}.caret{display:none}}
+  </style>
+  <defs>
+    <clipPath id="typed"><rect class="reveal" width="210" height="58"/></clipPath>
+  </defs>
+  <g transform="translate(4 0)" font-family="'Courier New',monospace" font-size="50" font-weight="700">
+    <text x="0" y="46" fill="none" stroke="#2f81f7" stroke-width=".7" stroke-opacity=".55">DEVYAJI</text>
+    <text x="0" y="46" fill="#2f81f7" clip-path="url(#typed)">DEVYAJI</text>
+    <rect class="caret" x="0" y="7" width="3" height="42" fill="#2f81f7"/>
+    <path d="M0 54h210" stroke="#2f81f7" stroke-opacity=".25"/>
+    <path d="M0 54h210" stroke="#2f81f7" stroke-width="2" clip-path="url(#typed)"/>
+  </g>
+</svg>

@@ -1,11 +1,14 @@
-# Banner and GIF sources
+# Animation sources
 
-Selected from the user's requested [Cool GIFs for GitHub collection](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub):
+The README uses the four GIF URLs supplied by the user from [Cool GIFs for GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub):
 
-- [Selected banner](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7).
-- [Moving logo 1](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif).
-- [Moving logo 2](https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif).
+- [Facebook](https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif).
+- [LinkedIn](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif).
+- [Instagram](https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif).
+- [Intro illustration](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif).
 
-The README uses the public repository banner link, not the expiring signed private-user-images URL. The three external images depend on GitHub's asset hosting. Their live rendering could not be verified from this environment because browser network access is denied.
+These images load directly from GitHub's asset hosting. Their live playback has not been verified locally.
 
-Reduced-motion preferences select the local static cover and local technology icons instead of external motion assets. All identity text, tool icons, and contact buttons are local and remain usable independently of the external decoration.
+`intro.svg` fills the left tile with blue lettering. A persistent outline keeps the word visible while the solid fill and underline type across it. The reveal and caret animate with CSS transforms and opacity over a six-second loop, with a pause on the completed word. Reduced-motion preferences show the complete title and hide the caret; social links select their local static icons. The extra illustration uses the supplied GIF directly in a large right-hand tile spanning the title and combined experience box. The footer places the achievement and larger social icons on the left, with large blue focus areas in `focus.svg` on the right.
+
+The bio is native README text, and the technology packs remain local SVGs.
