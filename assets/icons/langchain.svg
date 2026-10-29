@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="96" viewBox="0 0 112 96" role="img" aria-label="LangChain">
+  <title>LangChain</title>
+  <rect x="3" y="3" width="106" height="90" rx="12" fill="#1a2232"/>
+  <svg x="37" y="17" width="38" height="38" viewBox="0 0 128 128" color="#a8c9ee"><g fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round"><path d="m50 78-10 10a22 22 0 0 1-31-31l23-23a22 22 0 0 1 31 0M78 50l10-10a22 22 0 0 0-31-31L34 32"/><path d="m44 65 24-24"/></g></svg>
+  <text x="56" y="78" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#e6eefa">LangChain</text>
+</svg>
