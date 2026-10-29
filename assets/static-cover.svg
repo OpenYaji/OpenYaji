@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="100" viewBox="0 0 600 100" role="img" aria-label="Code, Test, Deploy, Learn">
+  <rect x="1" y="1" width="598" height="98" rx="12" fill="#1a2232" stroke="#344359"/>
+  <g fill="#a8c9ee" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" text-anchor="middle">
+    <text x="80" y="59">Code</text><text x="225" y="59">Test</text><text x="375" y="59">Deploy</text><text x="520" y="59">Learn</text>
+  </g>
+  <path d="M139 47v12m157-12v12m156-12v12" stroke="#ebb892" stroke-width="2"/>
+</svg>
